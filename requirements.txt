@@ -1,0 +1,8 @@
+https://tutorcs.com
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+future==0.17.1
+nelson==0.4.3
+requests==2.22.0
+numpy>=1.12.0
